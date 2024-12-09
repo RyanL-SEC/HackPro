@@ -1,0 +1,1 @@
+Após a autorização temos que saber se possuímos acesso aos dados autenticados para uma identidade ou para um grupo de identidade que não seja o nosso
